@@ -12,7 +12,7 @@ This VAP is connected to an events list of Tandem ROI crossings.
 Select `Tools > Events List` and single-click on any particular
 time to jump to that point.
 
-Location data are requested from a das2 server at 30-second cadence.
+Location data are requested from a das2 server at a 30-second cadence.
 Under magnification at high **MLT** values you may need to increase
 the cadence of SPICE model data requests in order to receive 
 publication quality values.
