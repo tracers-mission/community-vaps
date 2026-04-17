@@ -10,3 +10,9 @@ This VAP is connected to an events list of Tandem ROI crossings.
 Select `Tools > Events List` and single-click on any particular
 time to jump to that point.
 
+## Contact Points
+
+Please reach out to the instrument PI, Dr. Stephen Fuselier <stephen.fuselier@swri.org> with any questions about the datasets.
+
+
+
