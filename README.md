@@ -47,7 +47,7 @@ as the Level 2 and Level 3 science instrument CDFs.
 
 Each file on the public site uses the following underscore-separated filename pattern:
 
->  {craft}_{level}_{instrument}_{dataset}_{date}_v{version}.cdf
+  `{craft} "_" {level} "_" {instrument} "_" {dataset} "_" {date} "_v" {version} ".cdf"`
 
 Note that sub-fields are separated by a minus sign `-`.  Values for each section appear below.
 
